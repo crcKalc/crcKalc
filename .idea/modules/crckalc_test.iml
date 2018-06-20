@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module version="4">
+  <component name="FacetManager">
+    <facet type="kotlin-language" name="Kotlin">
+      <configuration version="3" platform="Common (experimental) " useProjectSettings="false">
+        <compilerSettings />
+        <compilerArguments>
+          <option name="destination" value="$MODULE_DIR$/../../build/classes/kotlin/test" />
+          <option name="classpath" value="$MODULE_DIR$/../../build/classes/java/main:/Users/oleg/Projects/AndroidStudio/crckalc/build/classes/kotlin/main:/Users/oleg/Projects/AndroidStudio/crckalc/build/resources/main:/Users/oleg/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-test-annotations-common/1.2.50/dc05b95c75282bbc4e5ecbf973d3c6f8e75504a8/kotlin-test-annotations-common-1.2.50.jar:/Users/oleg/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-test-common/1.2.50/a5843befdec5daed1ea74a30af5d34ac2d864136/kotlin-test-common-1.2.50.jar:/Users/oleg/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-common/1.2.50/6b19a2fcc29d34878b3aab33fd5fcf70458a73df/kotlin-stdlib-common-1.2.50.jar:/Users/oleg/Projects/AndroidStudio/crckalc/build/classes/kotlin/main" />
+          <option name="moduleName" value="crckalc" />
+          <option name="languageVersion" value="1.2" />
+          <option name="apiVersion" value="1.2" />
+          <option name="pluginOptions">
+            <array />
+          </option>
+          <option name="pluginClasspaths">
+            <array />
+          </option>
+          <option name="multiPlatform" value="true" />
+        </compilerArguments>
+      </configuration>
+    </facet>
+  </component>
+</module>
