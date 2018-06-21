@@ -1,6 +1,6 @@
-package com.crckalc.predefined
+package com.crccalc.predefined
 
-import com.crckalc.AlgorithmParams
+import com.crccalc.AlgorithmParams
 
 object Crc16 {
     val ccittFalse = AlgorithmParams("CRC-16/CCITT-FALSE", 16, 0x1021, 0xFFFF, false, false, 0x0000, 0x29B1)

@@ -1,5 +1,6 @@
-package com.crckalc
+package com.crccalc
 
+import com.crccalc.algorithm.CrcHelper
 import kotlin.test.Test
 import kotlin.test.assertEquals
 

@@ -1,6 +1,6 @@
-package com.crckalc.predefined
+package com.crccalc.predefined
 
-import com.crckalc.AlgorithmParams
+import com.crccalc.AlgorithmParams
 
 /**
  * Created by anthony on 15.05.2017.

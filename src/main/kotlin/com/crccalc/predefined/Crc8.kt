@@ -1,6 +1,6 @@
-package com.crckalc.predefined
+package com.crccalc.predefined
 
-import com.crckalc.AlgorithmParams
+import com.crccalc.AlgorithmParams
 
 /**
  * Predefined params for 8-bit algorithms.

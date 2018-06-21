@@ -1,6 +1,6 @@
-package com.crckalc.predefined
+package com.crccalc.predefined
 
-import com.crckalc.AlgorithmParams
+import com.crccalc.AlgorithmParams
 
 object Crc64 {
     val crc64 = AlgorithmParams("CRC-64", 64, 0x42F0E1EBA9EA3693L, 0x00000000L, false, false, 0x00000000L, 0x6C40DF5F0B497347L)

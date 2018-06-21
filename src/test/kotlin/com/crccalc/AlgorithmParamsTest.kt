@@ -1,4 +1,4 @@
-package com.crckalc
+package com.crccalc
 
 import kotlin.test.Test
 import kotlin.test.assertFailsWith
